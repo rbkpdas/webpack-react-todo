@@ -24,6 +24,8 @@ npm run build-dev
 
 ## Running
 
+npm start
+
 Open the file `dist/index.html` in your browser
 
 http://localhost:8080/
