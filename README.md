@@ -26,6 +26,8 @@ npm run build-dev
 
 Open the file `dist/index.html` in your browser
 
+http://localhost:8080/
+
 ## Testing
 
 To run unit tests:
@@ -33,5 +35,3 @@ To run unit tests:
 ```sh
 npm test
 ```
-
-http://localhost:8080/
